@@ -1,13 +1,7 @@
 package com.joyingnet.www.test;
 
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
-
-public class MainActivity extends AppCompatActivity {
-
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-    }
+/**
+ * Created by 24437 on 2016/8/25.
+ */
+public class BActivity {
 }
